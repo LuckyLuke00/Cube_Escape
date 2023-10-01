@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f7accbd95be369e40b641829917839f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _effectsSource: {instanceID: 0}
+  - _alertSound: {fileID: 8300000, guid: 122f0362c8dad514aae0b914d1325c9d, type: 3}
+  - _deathSound: {fileID: 8300000, guid: 5b4588fc7bcaac8449f697eae9064406, type: 3}
+  - _gateSound: {fileID: 8300000, guid: 60936069ae28c1646965b815ab716551, type: 3}
+  - _pickupSound: {fileID: 8300000, guid: 8806c28d92b11274ea18ef9f686b553c, type: 3}
+  - _winSound: {fileID: 8300000, guid: f30c331e645ad994fafb51b178f72abd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
